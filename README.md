@@ -3,7 +3,7 @@ Soy un analista de datos apasionado con una sólida formación en ciencias de da
 
 ## Experiencia Laboral:
 **analista de datos - Claro Colombia**
-- [Responsabilidades y logros]
+[Responsabilidades y logros]
 Mejora en la toma de decisiones empresariales: Proporcioné análisis de datos y visualizaciones que llevaron a una mejor comprensión de los patrones del mercado y las necesidades del cliente, lo que permitió a la empresa tomar decisiones más informadas y estratégicas.
 Aumento de la eficiencia operativa: Identifiqué oportunidades de mejora en los procesos internos mediante el análisis de datos y la identificación de cuellos de botella, lo que llevó a una reducción de costos y un aumento de la productividad.
 Análisis de clientes y segmentación: Realicé un análisis exhaustivo del comportamiento del cliente y propuse segmentos de clientes que permitieron a la empresa adaptar sus estrategias de marketing y mejorar la retención de clientes.
